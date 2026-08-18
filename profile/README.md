@@ -25,7 +25,7 @@ Projekte für [COMSPOT](https://nuonic.de/case-studies/comspot-focus), [topi](ht
 
 ## Links
 
-[Website](https://nuonic.de) · [Insights](https://nuonic.de/insights) · [Leistungen & Preise](https://nuonic.de/leistungen) · [LinkedIn](https://www.linkedin.com/company/nuonic-digital) · [Shopware-Partnerprofil](https://www.shopware.com/de/partner/)
+[Website](https://nuonic.de) · [Insights](https://nuonic.de/insights) · [Leistungen & Preise](https://nuonic.de/leistungen) · [LinkedIn](https://www.linkedin.com/company/nuonic-digital) · [Shopware-Partnerprofil](https://www.shopware.com/de/partner/agenturen/nuonic-digital-gmbh-co-kg/)
 
 **Kontakt:** [kontakt@nuonic.de](mailto:kontakt@nuonic.de) · +49 8141 828197-0
 
